@@ -105,11 +105,12 @@ form .form-input:hover {
     margin: 10px;
     padding: 10px 50px;
     border-style: solid;
-    border-width: 3px;
+    border-width: 1px;
     border-color: black;
     border-radius: 500px;
     transition: 200ms;
     cursor: pointer;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.54);
 }
 
 #jbo .contenido-jbo .boton-input:hover {
