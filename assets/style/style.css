@@ -207,7 +207,7 @@ body #blog-01 .box-position-01 .box-art:hover {
     flex-direction: column;
     justify-content: center;
     padding: 0 20px;
-    gap: 10px;
+    gap: 20px;
 }
 
 #box-sect-3 .box-art-02-2 h1 {
@@ -215,8 +215,11 @@ body #blog-01 .box-position-01 .box-art:hover {
     text-align: center;
 
 }
-
 #box-sect-3 .box-art-02-2 h3 {
+    text-align: center;
+}
+
+#box-sect-3 .box-art-02-2 h2 {
     text-align: center;
 }
 #jbo {
@@ -256,64 +259,26 @@ body #blog-01 .box-position-01 .box-art:hover {
     gap: 20px;
 }
 
-/* footer .container-Foot {
-    padding: 80px 0;
+
+#box-sect-3 .box-art-02-2 h3{
     display: flex;
-    justify-content: space-around;
-
+    justify-content: center;
+    
 }
-
-footer li {
-    padding: 8px 0;
-    list-style: none;
-
-}
-
-footer div h3 {
-    font-size: 15px;
-    font-weight: 600;
-    color: rgb(156, 156, 156);
-}
-
-footer li a {
+#box-sect-3 .box-art-02-2 h3 a {
+    background-color: #005D8B;
+    
+    padding: 8px 10px;
     text-decoration: none;
-    color: rgb(80, 80, 80);
-    cursor: pointer;
+    color: rgb(9, 8, 8);
+    border: 2px black solid;
+    border-radius: 5rem;
 }
-
-footer li a:hover {
-    color: black;
+#box-sect-3 .box-art-02-2 h3 a:hover {
+    color: #C1AB99;
+    border-color: #C1AB99;
     transition: 200ms;
 }
-
-footer .box-foot-01 .ul-foot-01 {
-    display: flex;
-    gap: 30px;
-}
-
-footer .box-foot-01 .ul-foot-01 li {
-    padding: 12px;
-    list-style: none;
-    border: 2px black solid;
-    border-radius: 50px;
-    cursor: pointer;
-}
-
-footer hr {
-    width: 70%;
-    margin: auto;
-
-}
-
-footer section h4 {
-    color: rgb(156, 156, 156);
-    font-weight: 400;
-    padding: 30px 0;
-    margin: auto;
-    text-align: center;
- }*/
-
-
 
 
 
