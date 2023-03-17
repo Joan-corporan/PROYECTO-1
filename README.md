@@ -19,5 +19,5 @@ SweetHome es una pagina web creada con en proposito de vender ariticulo de decor
 
 ## Agradecimientos
 
-Quisiera agradecer al profesor de la universidad, **Daniel Sepúlveda Pérez**
+Quisiera agradecer al profesor de la universidad, **Daniel Sepúlveda Pérez** por su paciencia y esfuerzo.
 
