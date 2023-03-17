@@ -1,21 +1,21 @@
-# E-commerce SweetHome
+# Landing-Proyecto-1
 
 
 ## Introducción
 Este es un prototipo basado en un ecommerce con la finalidad de vender articulos decorativos para el hogar.
 ![prototipo](./assets/style/img-mockup/mockup-proyect.png)
-<!-- Este es un proyecto hecho con  
-SweetHome es una pagina web creada con en proposito de vender ariticulo de decoraciones para el hogar, con el objetivo de satisfacer la necesidad del cliente. -->
 
 ## Tecnologias usadas
 
 
 - HTML
 - CSS
-<!-- 
-![](https://cdn-icons-png.flaticon.com/512/919/919827.png)
 
-![](https://cdn-icons-png.flaticon.com/512/919/919826.png) -->
+
+## Website 
+https://joan-corporan.github.io/PROYECTO-1/
+
+
 
 ## Agradecimientos
 
