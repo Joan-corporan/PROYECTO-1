@@ -115,4 +115,10 @@
     
     } 
     
+} 
+@media (max-width:630px) {
+    #form-01 .div-color-v .div-border{
+        width: 90%;
+    }
+
 }
