@@ -90,6 +90,13 @@ footer li a:hover {
     color: black;
     transition: 200ms;
 }
+footer .box-foot-01 .ul-foot-01 .Fimg-p {
+    padding: 0 3px;
+}
+footer .box-foot-01 .ul-foot-01 .Fimg-p-2 {
+    padding: 0 2px;
+
+}
 
 footer .box-foot-01 .ul-foot-01 {
     display: flex;
