@@ -274,6 +274,7 @@ body #blog-01 .box-position-01 .box-art:hover {
     color: rgb(9, 8, 8);
     border: 2px black solid;
     border-radius: 5rem;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.54);
 }
 #box-sect-3 .box-art-02-2 h3 a:hover {
     color: #C1AB99;
