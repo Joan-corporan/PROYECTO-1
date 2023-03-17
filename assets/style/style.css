@@ -166,6 +166,7 @@ body #blog-01 article .div-img-blog img {
 }
 
 body #blog-01 .box-position-01 .box-art {
+    margin: 5px;
     height: 375px;
     width: 250px;
     background-color: white;
@@ -184,6 +185,10 @@ body #blog-01 .box-position-01 .box-art:hover {
 
 
 }
+
+/* .box-art {
+
+} */
 
 .box-art section p {
     padding: 8px 15px;
@@ -454,9 +459,6 @@ body #blog-01 .box-position-01 .box-art:hover {
     }
 
 
-    body #blog-01 .box-position-01 .box-art {
-        width: 65%;
-    }
 
 
 
