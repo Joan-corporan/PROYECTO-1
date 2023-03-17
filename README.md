@@ -3,7 +3,7 @@
 
 ## Introducción
 Este es un prototipo basado en un ecommerce con la finalidad de vender articulos decorativos para el hogar.
-![prototipo](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Teaser/e-commerce.jpg)
+![prototipo](./assets/style/img/mockup-proyect.png)
 <!-- Este es un proyecto hecho con  
 SweetHome es una pagina web creada con en proposito de vender ariticulo de decoraciones para el hogar, con el objetivo de satisfacer la necesidad del cliente. -->
 
