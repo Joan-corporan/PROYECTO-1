@@ -9,9 +9,13 @@ SweetHome es una pagina web creada con en proposito de vender ariticulo de decor
 
 ## Tecnologias usadas
 
-![HTML](https://cdn-icons-png.flaticon.com/512/919/919827.png)
 
-![CSS](https://cdn-icons-png.flaticon.com/512/919/919826.png)
+- HTML
+- CSS
+<!-- 
+![](https://cdn-icons-png.flaticon.com/512/919/919827.png)
+
+![](https://cdn-icons-png.flaticon.com/512/919/919826.png) -->
 
 ## Agradecimientos
 
