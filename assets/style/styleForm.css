@@ -12,9 +12,6 @@
 
 #form-01 .div-color-v {
     margin: auto;
-    /*  background-color: #f1ede8;*/
- 
-
     height: 60vh;
     width: 60%;
     display: flex;
@@ -65,6 +62,7 @@
     font-size: 15px;
     border: 2px rgb(4, 4, 4) solid;
     border-radius: 5px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.54);
 }
 
 #form-01 div form {
@@ -83,12 +81,25 @@
     width: 90px;
     padding: 8px;
     border: 2px rgb(4, 4, 4) solid;
+    border-radius: 5px;
     cursor: pointer;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.54);
 }
 #form-01 div article form button:hover{
-   font-size: 14px;
-  
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.54);
+    transition: 150ms;
 } 
+.div-color-v .div-border div {
+    display:flex ;
+    justify-content: space-around;
+}
+.div-color-v .div-border div a {
+    color: rgba(0, 0, 0, 0.469);
+}
+.div-color-v .div-border div a:hover{
+    color: rgb(9, 8, 8);
+    transition: 150ms;
+}
 @media (max-width:855px) {
     #form-01 .div-color-v {
         margin: auto;
