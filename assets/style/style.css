@@ -11,57 +11,6 @@ body {
     margin: 0;
 }
 
-section header {
-
-    height: 80px;
-    background-color: #7DA2B2;
-    padding: 0 90px;
-    color: black;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-header a {
-    text-decoration: none;
-}
-
-header .logo {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-weight: 900;
-    font-size: 30px;
-    color: black;
-
-}
-
-header nav a {
-    color: black;
-    padding: 0 5px;
-}
-
-
-.mostrar-menu,
-.esconder-menu {
-    font-size: 30px;
-    cursor: pointer;
-    display: none;
-    transition: o.4s;
-}
-
-.mostrar-menu {
-    order: 1;
-}
-
-.menu a:hover,
-.mostrar-menu:hover,
-.esconder-menu:hover {
-    color: #BEF0DF;
-    transition: 200ms;
-}
-
-#check {
-    display: none;
-}
 
 .container-img {
     width: 80vw;
@@ -125,8 +74,7 @@ form .form-input:hover {
 #jbo .contenido-jbo .boton-input:hover {
     box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.54);
 
-    /* color: #C1AB99;
-    border-color: #C1AB99; */
+
 }
 
 #jbo .contenido-jbo {
@@ -551,7 +499,7 @@ body #blog-01 .box-position-01 .box-art:hover {
 
     .container-img img {
         width: 1000px;
-        /* display: none; */
+
     }
 
 
